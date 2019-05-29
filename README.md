@@ -1,5 +1,5 @@
 # Anagram
-A program written in java for generating anagrams of a user-submitted string.
+A highly optimized program written in java for generating anagrams of a user-submitted string.
 
 ### Example
 Anagram of **abc** is:-
