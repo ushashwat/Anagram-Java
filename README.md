@@ -10,4 +10,4 @@ An anagram is a word or phrase formed by rearranging the letters of a different 
 Anagram of **ABC** is:-
 
 
-**ABC ACB BAC BCA CAB CBA**
+**ABC  ACB  BAC  BCA  CAB  CBA**
