@@ -7,5 +7,5 @@ An anagram is a word or phrase formed by rearranging the letters of a different 
 
 
 ### Results
-Input: **ABC**
+Input: **ABC** <br/>
 Output: **ABC ACB BAC BCA CAB CBA**
